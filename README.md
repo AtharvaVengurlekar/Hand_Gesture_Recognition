@@ -8,7 +8,8 @@ You can use venv or conda environment as per your need.
 
 ## Installation
 Run the [requirements.txt](/requirements.txt) file.
-```pip install -r requirements.txt```
+```pip install -r requirements.txt``` or 
+Run [pip install tensorflow mediapipe opencv-python] command to install all the necessary libraries to run the project
 
 ## Data collection process
 To collect the data, run ```python data_collection.py```. This will collect the hand data using the mediapipe library. Following signs are in correct pipeline:
