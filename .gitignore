@@ -1,0 +1,5 @@
+venv/ 
+*.dll 
+*.pyd 
+*.exe 
+*.zip 
